@@ -1,3 +1,3 @@
 const m = "Mercado pago"
-
-console.log(m )
+const d = "Devedor"
+console.log(m,d)
